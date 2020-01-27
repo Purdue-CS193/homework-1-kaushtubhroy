@@ -18,9 +18,9 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. No Attendance 
-2. **No Mid-Terms**
-3. **_No Finals_**
+-No Attendance 
+- **No Mid-Terms**
+- **_'No Finals'_**
 
 **Bold** and _Italic_ and `Code` text
 
